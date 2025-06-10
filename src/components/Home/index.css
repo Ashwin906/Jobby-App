@@ -1,0 +1,30 @@
+.home-container {
+  min-height: 90vh;
+  height: 100%;
+  color: #ffffff;
+  background-image: url(https://assets.ccbp.in/frontend/react-js/home-lg-bg.png);
+  background-size: cover;
+  padding: 7vw;
+}
+@media screen and (max-width: 768px) {
+  .home-container {
+    background-image: url(https://assets.ccbp.in/frontend/react-js/home-sm-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+.home-container h1 {
+  margin: 0;
+  font-size: 50px;
+}
+
+.home-text-content-container {
+  width: 50%;
+}
+.home-text-content-container button {
+  background-color: #4f46e5;
+  padding: 10px 20px;
+  color: #fff;
+  border: 0px solid;
+  border-radius: 7px;
+}
