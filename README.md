@@ -36,12 +36,6 @@ Jobby App is a job listing web application built using React. It enables users t
 - JWT Authentication
 - CSS for styling
 
-## APIs Used
-
-- **Login API**: `POST https://apis.ccbp.in/login`
-- **Profile API**: `GET https://apis.ccbp.in/profile`
-- **Jobs API**: `GET https://apis.ccbp.in/jobs`
-- **Job Details API**: `GET https://apis.ccbp.in/jobs/:id`
 
 ## Getting Started
 
